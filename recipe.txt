@@ -4,6 +4,7 @@ pizza
 kheer
 chicken
 
-
+pasta
+samosa
 
 thank you
